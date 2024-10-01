@@ -7,7 +7,7 @@
 - [12ft.io](https://12ft.io) : Acessar Matérias
 
 ### Biografia de Elon Musk:
-- "Elon Musk: Como o CEO Bilionário da SpaceX e da Tesla está" de [Ashlee Vance](https://www.amazon.com.br/Elon-Musk-Ashlee-Vance/dp/8580578280)
+- "Elon Musk: Como o CEO bilionário da SpaceX e da Tesla está moldando o nosso futuro" de [Ashlee Vance](https://www.amazon.com.br/Elon-Musk-Ashlee-Vance/dp/8580578280)
 - [Tesla](https://www.tesla.com/elon-musk)
 
 ### História da Tesla:
