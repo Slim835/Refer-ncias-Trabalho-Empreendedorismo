@@ -1,14 +1,14 @@
-# Refer-ncias-Trabalho-Empreendedorismo
+# Referências-Trabalho-Empreendedorismo
 # Elon Musk
 
 ## Referências para o trabalho
 
 ### Links Úteis 🌠
-- [12ft.io](https://12ft.io) : Acessar Matérias
+- [12ft.io](https://12ft.io) : Acessar Matérias com *paywall**
 
 ### Biografia de Elon Musk:
 - "Elon Musk: Como o CEO bilionário da SpaceX e da Tesla está moldando o nosso futuro" de [Ashlee Vance](https://www.amazon.com.br/Elon-Musk-Ashlee-Vance/dp/8580578280)
-- [Tesla](https://www.tesla.com/elon-musk)
+- [Tesla](https://www.tesla.com/pt_pt/elon-musk)
 
 ### História da Tesla:
 | Descrição | Origem |
